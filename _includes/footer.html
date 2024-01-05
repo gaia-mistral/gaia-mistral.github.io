@@ -1,0 +1,30 @@
+    <footer>
+      <div class="container-lg p-responsive py-4 ">
+        <div class="d-flex flex-justify-between">
+          <ul class="list-style-none float-right text-small">
+            <li class="d-inline-block ml-lg-2"><a href="mailto:contact@gaia-mistral.org">Contacter nous</a></li>
+          </ul>
+
+          <a href="/" class="text-center">
+            <span class="sr-only">Acceuil</span>
+            {% octicon mark-github height:24 class:"fill-gray-light d-inline" aria-label:github-logo %}
+          </a>
+
+          <ul class="list-style-none float-left text-small">
+            <li class="d-inline-block mr-lg-2"><a href="https://github.com/gaia-mistral">GitHub</a></li>
+          </ul>
+        </div>
+
+        <p class="border-top text-center f5 mt-4 pt-4">&copy; 2023 - {{ site.time | date: '%Y' }} <span>Gaia</span>, Inc. and contributors</p>
+      </div>
+
+    </footer>
+
+
+    <script src="{{ "/node_modules/anchor-js/anchor.min.js" | relative_url}}"></script>
+    <script src="{{ "/node_modules/jquery/dist/jquery.min.js" | relative_url}}"></script>
+    <script>anchors.add('.org-type h4');</script>
+    <script src="{{ "/assets/js/home.js" | relative_url}}"></script>
+  </body>
+</html>
+<!-- Proudly powered by GitHub Pages ~ Generated {{ site.time }} -->

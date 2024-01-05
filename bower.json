@@ -1,0 +1,17 @@
+{
+  "name": "gaia-mistral.org",
+  "version": "0.0.1",
+  "homepage": "https://gaia-mistral.org/",
+  "authors": [
+    "David JOULIN"
+  ],
+  "description": "Generative Artificial Intelligence for Agriculture",
+  "main": "index.html",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.2",
+    "anchor-js": "~3.1",
+    "octicons": "~3.5",
+    "bootstrap-sass": "~3.3.6"
+  }
+}
