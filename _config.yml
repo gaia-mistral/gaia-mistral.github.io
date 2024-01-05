@@ -1,6 +1,6 @@
 # global settings
 title: "Gaia"
-description: "Building together a new innovative ecosystem for farms"
+description: "Building together a new innovative IA LLM for farms"
 permalink: "/stories/:title"
 url: https://gaia-mistral.github.io
 relative_permalinks: false
