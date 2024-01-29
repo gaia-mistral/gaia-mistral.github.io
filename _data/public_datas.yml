@@ -1,0 +1,58 @@
+# Add open source project link to agricultural technologies
+Automation and Robotics:
+Climate, Environment, Imagery and Weather:
+  - name: Open weather map
+    website: https://openweathermap.org/
+    demo: https://openweathermap.org/weathermap
+    img: "/assets/img/projects/openweather.png"
+  - name: Open meteo
+    website: https://open-meteo.com/
+    demo: https://open-meteo.com/en/docs
+    img: "/assets/img/projects/openmeteo.png"
+  - name: Agro monitoring
+    website: https://agromonitoring.com/
+    demo: https://agromonitoring.com/map#12/41.978/-93.3977
+    img: "/assets/img/projects/agromonitoring.jpeg"
+  - name: IGN
+    website: https://ign.fr
+    demo: https://geoservices.ign.fr/documentation/diffusion/telechargement-donnees-libres.html#bd-topo
+    img: "/assets/img/projects/ign.png"
+  - name: Météo France
+    website: https://meteofrance.com/
+    demo: https://meteo.data.gouv.fr/
+    img: "/assets/img/projects/meteo_france.png"
+Data Standardization, Open Data, Interoperability and APIs:
+  - name: Global Biodiversity Information Facility
+    website: https://www.gbif.org/
+    demo: https://www.gbif.org/developer/summary
+    img: "/assets/img/projects/gbif.png"
+  - name: Pl@ntNet
+    website: https://plantnet.org/
+    demo: https://identify.plantnet.org/fr
+    img: "/assets/img/projects/plantnet.png"
+  - name: Open Food Facts
+    website: https://fr.openfoodfacts.org
+    demo: https://fr.openfoodfacts.org/data
+    img: "/assets/img/projects/off.svg"
+Enterprises and Legals:
+  - name: Legifrance
+    website: https://www.legifrance.gouv.fr
+    demo: "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071367/"
+    img: "/assets/img/projects/legifrance.png"
+  - name: SIRENE
+    website: https://fr.openfoodfacts.org
+    demo: "https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/"
+    img: "/assets/img/projects/insee.jpeg"
+Knowledgebases and Learning Resources:
+  - name: Agreste
+    website: https://www.agreste.agriculture.gouv.fr/agreste-web/
+    demo: https://agreste.agriculture.gouv.fr/agreste-web/disaron/!searchurl/745fcc0d-4e89-4a99-b151-835d2a9be2df/search/
+    img: "/assets/img/projects/agreste.png"
+  - name: Data gouv
+    website: https://www.data.gouv.fr/fr/
+    demo: https://www.data.gouv.fr/fr/pages/donnees_agriculture-alimentation/
+    img: "/assets/img/projects/datagouv.png"
+  - name: Triple performance
+    website: https://wiki.tripleperformance.fr/wiki/Triple_Performance
+    demo: https://forum.tripleperformance.fr/
+    img: "/assets/img/projects/tp.svg"
