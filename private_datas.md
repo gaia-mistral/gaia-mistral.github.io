@@ -4,6 +4,7 @@ layout: home
 description: Les données agricoles privées
 permalink: /private_datas/
 ---
+
 <section class="container-lg p-responsive py-5 py-md-6 my-lg-6">
   <h2 class="alt-h2 text-center mb-3 mt-lg-6">Le jeu de données de la ferme de La Vauzelle</h2>
   <div class="clearfix gutter-spacious">
@@ -11,8 +12,9 @@ permalink: /private_datas/
   </div>
   <br>
   <div class="clearfix gutter-spacious">
-  Pour ses raisons d'ouvertures, ainsi que pour ses performances, GAIA a choisi de baser son architecture sur Mistral afin de garantir une ouverture et une souveraineté durable.
+  La ferme de La Vauzelle, située en Charente-Maritime(17), exploite 115 Ha de polyculture et compte 60 vaches laitières de race normande.
   </div>
+  <img src="/assets/img/la_vauzelle.png" width="800" display="block" margin-left="auto" margin-right="auto"/>
   <p class="text-center">
     <a href="https://github.com/ekylibre/first_run-demo/tree/master/demo" target='_blank' class="btn btn-github btn-outline">Données brutes</a>
     <a href="https://demo-innovation.ekylibre.io/" target='_blank' class="btn btn-outline">Données via Ekylibre</a>
