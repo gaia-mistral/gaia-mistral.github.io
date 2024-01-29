@@ -21,7 +21,7 @@ Climate, Environment, Imagery and Weather:
     website: https://meteofrance.com/
     demo: https://meteo.data.gouv.fr/
     img: "/assets/img/projects/meteo_france.png"
-Data Standardization, Open Data, Interoperability and APIs:
+Biodiversity and plants:
   - name: Global Biodiversity Information Facility
     website: https://www.gbif.org/
     demo: https://www.gbif.org/developer/summary
@@ -30,10 +30,15 @@ Data Standardization, Open Data, Interoperability and APIs:
     website: https://plantnet.org/
     demo: https://identify.plantnet.org/fr
     img: "/assets/img/projects/plantnet.png"
+Food informations:
   - name: Open Food Facts
     website: https://fr.openfoodfacts.org
     demo: https://fr.openfoodfacts.org/data
     img: "/assets/img/projects/off.svg"
+  - name: OpenFoodTox
+    website: https://www.efsa.europa.eu/en/data-report/chemical-hazards-database-openfoodtox
+    demo: https://zenodo.org/records/5076033#.YsV7G3ZBzGJ
+    img: "/assets/img/projects/efsa.svg"
 Enterprises and Legals:
   - name: Legifrance
     website: https://www.legifrance.gouv.fr
@@ -52,7 +57,36 @@ Knowledgebases and Learning Resources:
     website: https://www.data.gouv.fr/fr/
     demo: https://www.data.gouv.fr/fr/pages/donnees_agriculture-alimentation/
     img: "/assets/img/projects/datagouv.png"
+  - name: Data europa
+    website: https://data.europa.eu/
+    demo: https://data.europa.eu/data/datasets/a1661432-5c36-4c15-b415-43bb04704fa8?locale=fr
+    img: "/assets/img/projects/eu.svg"
+  - name: Inrae
+    website: https://entrepot.recherche.data.gouv.fr/dataverse/eos
+    demo: https://entrepot.recherche.data.gouv.fr/dataset.xhtml?persistentId=doi:10.15454/SCTMIU
+    img: "/assets/img/projects/inrae.png"
   - name: Triple performance
     website: https://wiki.tripleperformance.fr/wiki/Triple_Performance
     demo: https://forum.tripleperformance.fr/
     img: "/assets/img/projects/tp.svg"
+Medicines for plants and animals:
+  - name: Agritox
+    website: https://www.data.gouv.fr/fr/datasets/base-de-donnees-agritox/
+    demo: https://www.data.gouv.fr/fr/datasets/r/e9553518-7ed1-49ff-8694-2ac0d8a2b562
+    img: "/assets/img/projects/anses.jpeg"
+  - name: Ephy
+    website: https://ephy.anses.fr/
+    demo: https://www.data.gouv.fr/fr/datasets/donnees-ouvertes-du-catalogue-e-phy-des-produits-phytopharmaceutiques-matieres-fertilisantes-et-supports-de-culture-adjuvants-produits-mixtes-et-melanges/
+    img: "/assets/img/projects/anses.jpeg"
+  - name: EU Pesticides Database 
+    website: https://data.europa.eu/
+    demo: https://data.europa.eu/data/datasets/pesticides-new?locale=fr
+    img: "/assets/img/projects/eu.svg"
+  - name: Medicaments vétérinaires autorisés
+    website: https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments-veterinaires-autorises-en-france-1/
+    demo: https://www.data.gouv.fr/fr/datasets/r/7a6e415d-1627-4051-963f-4d572ec27e5c
+    img: "/assets/img/projects/anses.jpeg"
+  - name: Fiches phytopratiques
+    website: https://phyteis.fr
+    demo: https://phyteis.fr/phytopratique/
+    img: "/assets/img/projects/phyteis.png"
