@@ -18,16 +18,16 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants :
 ## Installation
 
 1. **Installer Ruby** :
-   - Téléchargez et installez Ruby depuis [RubyInstaller](https://rubyinstaller.org/).
+   - Téléchargez et installez Ruby version 2.6.6 depuis [RubyInstaller](https://rubyinstaller.org/).
    - Vérifiez l'installation :
      ```sh
      ruby -v
      ```
 
 2. **Installer Bundler** :
-   - Installez Bundle en exécutant :
+   - Installez Bundle version 2.3.26 en exécutant :
      ```sh
-     gem install bundler
+     gem install bundler -v 2.3.26
      ```
    - Vérifiez l'installation :
       ```sh
@@ -115,16 +115,16 @@ Before you begin, make sure you have installed the following tools:
 ## Installation
 
 1. **Install Ruby**:
-   - Download and install Ruby from [RubyInstaller](https://rubyinstaller.org/).
+   - Download and install Ruby version 2.6.6 from [RubyInstaller](https://rubyinstaller.org/).
    - Verify the installation:
      ```sh
      ruby -v
      ```
 
 2. **Install Bundler**:
-   - Install Bundler by running:
+   - Install Bundler version 2.3.26 by running:
      ```sh
-     gem install bundler
+     gem install bundler -v 2.3.26
      ```
    - Verify the installation:
      ```sh
