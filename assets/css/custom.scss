@@ -342,3 +342,115 @@ h1 {
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
+// sia2024
+
+.bg-gray-light {
+  background-color: #f7f7f7;
+}
+
+.container-lg {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.p-responsive {
+  padding: 0 1rem;
+}
+
+.py-5 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.py-md-6 {
+  padding-top: 4.5rem;
+  padding-bottom: 4.5rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.alt-h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  justify-content: center;
+}
+
+.video-thumbnail {
+  position: relative;
+  width: 100%;
+  cursor: pointer;
+}
+
+.video-thumbnail img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.video-thumbnail .play-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.video-thumbnail:hover .play-button {
+  opacity: 1;
+}
+
+.video-thumbnail .play-button::before {
+  content: '';
+  border-style: solid;
+  border-width: 12px 0 12px 20px;
+  border-color: transparent transparent transparent white;
+}
+
+.logo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.logo-grid img {
+  max-width: 100px;
+  height: auto;
+}
+
+.media-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.media-grid a {
+  display: block;
+  text-decoration: none;
+}
+
+.media-grid img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
