@@ -292,3 +292,53 @@ div.quoteAttribution {
   text-align: center;
   width: 0;
 }
+
+
+//index
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  text-align: center;
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.collaborative-project {
+  text-align: center;
+  background-color: #F0F0F0;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 2rem;
+}
+
+.collaborative-project p {
+  font-size: 1.2rem;
+}
+
+.collaborative-project ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.collaborative-project ul li {
+  margin-bottom: 0.5rem;
+}
+
+.image-section {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.image-section img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
