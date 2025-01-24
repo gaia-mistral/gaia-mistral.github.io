@@ -1,0 +1,96 @@
+participants:
+  - name: France Agri Twittos
+    website: https://franceagritwittos.com
+    img: "/assets/img/participants/franceagritwittos.png"
+
+  - name: Groupama
+    website: https://www.groupama.fr
+    img: "/assets/img/participants/groupama.png"
+
+  - name: Mistral AI
+    website: https://mistral.ai
+    img: "/assets/img/participants/mistralia.png"
+
+  - name: SIA'PRO
+    website: https://www.sia-pro.com/fr-FR
+    img: "/assets/img/participants/siapro.png"
+
+  - name: La Ferme Digitale
+    website: https://www.lafermedigitale.fr/
+    img: "/assets/img/participants/lafermedigitale.png"
+
+  - name: Rizoa
+    website: https://www.linkedin.com/company/rizoa
+    img: "/assets/img/participants/rizoa.png"
+
+  - name: Crédit Agricole
+    website: https://www.credit-agricole.fr
+    img: "/assets/img/participants/creditagricole.png"
+
+  - name: Avril
+    website: https://www.avril.com
+    img: "/assets/img/participants/avril.png"
+
+  - name: Onepoint
+    website: https://www.groupeonepoint.com/fr/
+    img: "/assets/img/participants/onepoint.png"
+
+  - name: Acta
+    website: https://www.acta.asso.fr
+    img: "/assets/img/participants/acta.png"
+
+  - name: Chouette
+    website: https://www.chouette.vision
+    img: "/assets/img/participants/chouette.png"
+
+  - name: Météo France
+    website: https://www.meteofrance.fr
+    img: "/assets/img/participants/meteofrance.png"
+
+  - name: data.gouv.fr
+    website: https://www.data.gouv.fr
+    img: "/assets/img/participants/datagouv.png"
+
+  - name: Ekylibre
+    website: https://ekylibre.com
+    img: "/assets/img/participants/ekylibre.png"
+
+  - name: IGN
+    website: https://www.ign.fr
+    img: "/assets/img/participants/ign.png"
+
+  - name: INRAE
+    website: https://www.inrae.fr
+    img: "/assets/img/participants/inrae.png"
+
+  - name: Phyteis
+    website: https://phyteis.fr
+    img: "/assets/img/participants/phyteis.png"
+
+  - name: Anses
+    website: https://www.anses.fr
+    img: "/assets/img/participants/anses.png"
+
+  - name: Ombrea
+    website: https://www.ombrea.fr
+    img: "/assets/img/participants/ombrea.png"
+
+  - name: data.europa.eu
+    website: https://data.europa.eu
+    img: "/assets/img/participants/dataeuropa.png"
+
+  - name: Agreste
+    website: https://agreste.agriculture.gouv.fr
+    img: "/assets/img/participants/agreste.png"
+
+  - name: GODAN
+    website: https://www.godan.info
+    img: "/assets/img/participants/godan.png"
+
+  - name: OSFam
+    website: https://www.osfarm.org
+    img: "/assets/img/participants/osfram.png"
+
+  - name: Chambre d'Agriculture
+    website: https://chambres-agriculture.fr
+    img: "/assets/img/participants/chambreagriculture.png"
