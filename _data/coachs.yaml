@@ -1,0 +1,17 @@
+coachs:
+  - name: Bertrand
+    role: Project Leader
+    img: "/assets/img/teams/bertrand.jpeg"
+    url: "https://www.linkedin.com/in/bertrandgorge"
+  - name: David
+    role: Project Leader
+    img: "/assets/img/teams/david.jpg"
+    url: "https://www.linkedin.com/in/david-joulin-9b629790"
+  - name: Laurent
+    role: Project Leader
+    img: "/assets/img/teams/laurent.jpeg"
+    url: "https://www.linkedin.com/in/laurenttripied"
+  - name: Olivier
+    role: Project Leader
+    img: "/assets/img/teams/olivier.jpeg"
+    url: "https://www.linkedin.com/in/crapougnax"
