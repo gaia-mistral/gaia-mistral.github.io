@@ -1,0 +1,32 @@
+
+Modele LLM (Large Language Model):
+  - name: Mistral AI
+    logo: "/assets/img/outils/mistralia.png"
+    description: Mistral AI est une entreprise française, spécialisée dans l'intelligence artificielle générative. Elle développe de grands modèles de langage.
+    url: https://mistral.ai/
+  - name: Llama
+    logo: "/assets/img/outils/llama.png"
+    description: Llama est un modèle de langage développé par Meta, connu pour ses capacités avancées en traitement du langage naturel.
+    url: https://www.llama.com
+  - name: Anthropic
+    logo: "/assets/img/outils/anthropic.png"
+    description: Anthropic est une entreprise spécialisée dans le développement de modèles de langage avancés, avec un accent sur la sécurité et l'éthique.
+    url: https://anthropic.com/
+  - name: OpenAI
+    logo: "/assets/img/outils/openai.png"
+    description: OpenAI est une entreprise dans le domaine de l'intelligence artificielle, connue pour ses modèles de langage comme ChatGPT.
+    url: https://openai.com/
+
+Plateforme:
+  - name: HuggingFace
+    logo: "/assets/img/outils/huggingface.png"
+    description: HuggingFace est une plateforme populaire pour le partage et l'utilisation de modèles de machine learning.
+    url: https://huggingface.co/
+  - name: Poe
+    logo: "/assets/img/outils/poe.png"
+    description: Poe est une plateforme qui permet aux utilisateurs d'interagir avec divers modèles.
+    url: https://poe.com/
+  - name: Perplexity
+    logo: "/assets/img/outils/perplexity.png"
+    description: Perplexity est une plateforme qui offre des outils pour l'analyse et la génération de texte.
+    url: https://perplexity.ai/

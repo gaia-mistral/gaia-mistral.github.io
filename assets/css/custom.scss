@@ -514,3 +514,35 @@ h1 {
   justify-content: center;
 }
 
+//footer
+footer .container-lg {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+footer .container-lg p {
+  margin: 0;
+}
+
+footer .container-lg .icons {
+  display: flex;
+  align-items: center;
+}
+
+footer .container-lg .icons a {
+  margin-left: 180px; /* Ajustez cette valeur selon vos besoins */
+}
+
+.text-center {
+  text-align: center;
+}
+
+.d-inline {
+  display: inline;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+}
