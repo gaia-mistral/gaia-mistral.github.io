@@ -1,17 +1,22 @@
 coachs:
   - name: Bertrand
-    role: Project Leader
+    role: CTO | Triple Performance
     img: "/assets/img/teams/bertrand.jpeg"
     url: "https://www.linkedin.com/in/bertrandgorge"
   - name: David
-    role: Project Leader
+    role: CEO | Ekylibre
     img: "/assets/img/teams/david.jpg"
     url: "https://www.linkedin.com/in/david-joulin-9b629790"
+  - name: Jean-Pierre
+    role: Directeur de recherche | Agriculture numérique & Innovation | INRAE
+    img: "/assets/img/teams/jean-pierre.jpeg"
+    url: "https://www.linkedin.com/in/jean-pierre-chanet"
   - name: Laurent
-    role: Project Leader
+    role: CEO | Bziiit
     img: "/assets/img/teams/laurent.jpeg"
     url: "https://www.linkedin.com/in/laurenttripied"
   - name: Olivier
-    role: Project Leader
+    role: CEO | Brad
     img: "/assets/img/teams/olivier.jpeg"
     url: "https://www.linkedin.com/in/crapougnax"
+
