@@ -11,6 +11,7 @@ include: ["node_modules"]
 markdown: kramdown
 plugins:
   - jekyll-avatar
+  - jekyll-polyglot
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-coffeescript
@@ -35,3 +36,7 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+unexisting_page:
+  en: "The page you're looking for doesn't seem to be there!"
+  fr: "La page demandée n'est pas présente ici !"
