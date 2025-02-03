@@ -2,31 +2,38 @@
 Modele LLM (Large Language Model):
   - name: Mistral AI
     logo: "/assets/img/outils/mistralia.png"
-    description: Mistral AI est une entreprise française, spécialisée dans l'intelligence artificielle générative. Elle développe de grands modèles de langage.
+    description-fr: Mistral AI est une entreprise française, spécialisée dans l'intelligence artificielle générative. Elle développe de grands modèles de langage.
+    description-en: Mistral AI is a French company specializing in generative artificial intelligence. It develops large language models.
     url: https://mistral.ai/
   - name: Llama
     logo: "/assets/img/outils/llama.png"
-    description: Llama est un modèle de langage développé par Meta, connu pour ses capacités avancées en traitement du langage naturel.
+    description-fr: Llama est un modèle de langage développé par Meta, connu pour ses capacités avancées en traitement du langage naturel.
+    description-en: Llama is a language model developed by Meta, known for its advanced natural language processing capabilities.
     url: https://www.llama.com
   - name: Anthropic
     logo: "/assets/img/outils/anthropic.png"
-    description: Anthropic est une entreprise spécialisée dans le développement de modèles de langage avancés, avec un accent sur la sécurité et l'éthique.
+    description-fr: Anthropic est une entreprise spécialisée dans le développement de modèles de langage avancés, avec un accent sur la sécurité et l'éthique.
+    description-en: Anthropic is a company specializing in the development of advanced language models, with a focus on safety and ethics.
     url: https://anthropic.com/
   - name: OpenAI
     logo: "/assets/img/outils/openai.png"
-    description: OpenAI est une entreprise dans le domaine de l'intelligence artificielle, connue pour ses modèles de langage comme ChatGPT.
+    description-fr: OpenAI est une entreprise dans le domaine de l'intelligence artificielle, connue pour ses modèles de langage comme ChatGPT.
+    description-en: OpenAI is a company in the field of artificial intelligence, known for its language models like ChatGPT.
     url: https://openai.com/
 
 Plateforme:
   - name: HuggingFace
     logo: "/assets/img/outils/huggingface.png"
-    description: HuggingFace est une plateforme populaire pour le partage et l'utilisation de modèles de machine learning.
+    description-fr: HuggingFace est une plateforme populaire pour le partage et l'utilisation de modèles de machine learning.
+    description-en: Hugging Face is a popular platform for sharing and using machine learning models.
     url: https://huggingface.co/
   - name: Poe
     logo: "/assets/img/outils/poe.png"
-    description: Poe est une plateforme qui permet aux utilisateurs d'interagir avec divers modèles.
+    description-fr: Poe est une plateforme qui permet aux utilisateurs d'interagir avec divers modèles.
+    description-en: Poe is a platform that allows users to interact with various models.
     url: https://poe.com/
   - name: Perplexity
     logo: "/assets/img/outils/perplexity.png"
-    description: Perplexity est une plateforme qui offre des outils pour l'analyse et la génération de texte.
+    description-fr: Perplexity est une plateforme qui offre des outils pour l'analyse et la génération de texte.
+    description-en: Perplexity is a platform that offers tools for text analysis and generation.
     url: https://perplexity.ai/

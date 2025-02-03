@@ -3,6 +3,7 @@ title: Les données agricoles privées
 layout: home
 description: Les données agricoles privées
 permalink: /private_datas/
+lang: fr
 ---
 
 <section class="container-lg p-responsive py-5 py-md-6 my-lg-6">

@@ -3,6 +3,7 @@ title: Le modèle Mistral
 layout: home
 description: Comment fonctionne Mistral
 permalink: /mistral/
+lang: fr
 ---
 <section class="container-lg p-responsive py-5 py-md-6 my-lg-6">
   <h2 class="alt-h2 text-center mb-3 mt-lg-6">Pourquoi Mistral et pas un autre moteur LLM</h2>

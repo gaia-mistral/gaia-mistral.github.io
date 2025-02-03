@@ -1,30 +1,31 @@
 ---
-title: Retour sur la première mondiale au SIA 2024
-layout: home
-description: Retour sur la première mondiale au SIA 2024
-permalink: /sia2024/
+title: Recap of the World Premiere at SIA 2024
+layout: en-home
+description: Recap of the World Premiere at SIA 2024
+permalink: /en/sia2024/
+lang: en
 ---
 
 <section id="topics" class="bg-gray-light">
   <div class="container-lg p-responsive py-5 py-md-6 text-center">
-    <h3 class="alt-h2 mb-4">Les sujets</h3>
-    <p>Pour plus de vidéos, visitez notre page dédiée : <a href="https://videos.gaia-ia.org/" target="_blank">Vidéos GAIA</a></p>
+    <h3 class="alt-h2 mb-4">Topics</h3>
+    <p>For more videos, visit our dedicated page: <a href="https://videos.gaia-ia.org/" target="_blank">GAIA Videos</a></p>
     <div class="video-grid">
       <div class="video-thumbnail" data-video-id="yd9agyhuDp4">
         <a href="https://www.youtube.com/watch?v=yd9agyhuDp4" target="_blank">
-          <img src="https://img.youtube.com/vi/yd9agyhuDp4/0.jpg" alt="Miniature de la vidéo 1">
+          <img src="https://img.youtube.com/vi/yd9agyhuDp4/0.jpg" alt="Video thumbnail 1">
         </a>
         <div class="play-button"></div>
       </div>
       <div class="video-thumbnail" data-video-id="LHFijUmdHnQ">
         <a href="https://www.youtube.com/watch?v=LHFijUmdHnQ" target="_blank">
-          <img src="https://img.youtube.com/vi/LHFijUmdHnQ/0.jpg" alt="Miniature de la vidéo 2">
+          <img src="https://img.youtube.com/vi/LHFijUmdHnQ/0.jpg" alt="Video thumbnail 2">
         </a>
         <div class="play-button"></div>
       </div>
       <div class="video-thumbnail" data-video-id="43nrjAhT1oo">
         <a href="https://www.youtube.com/watch?v=43nrjAhT1oo" target="_blank">
-          <img src="https://img.youtube.com/vi/43nrjAhT1oo/0.jpg" alt="Miniature de la vidéo 3">
+          <img src="https://img.youtube.com/vi/43nrjAhT1oo/0.jpg" alt="Video thumbnail 3">
         </a>
         <div class="play-button"></div>
       </div>
@@ -34,7 +35,7 @@ permalink: /sia2024/
 
 <section id="tools" class="bg-gray-light">
   <div class="container-lg p-responsive py-5 py-md-6 text-center">
-    <h3 class="alt-h2 mb-6">Les prototypes</h3>
+    <h3 class="alt-h2 mb-6">Prototypes</h3>
     <div class="tools-grid" id="tools-grid">
       <a href="https://gaia-mistral-chatbot-g-pdf.hf.space/" target='_blank' title="Demo Gaia RAG PDF">
         <img class="avatar" src="/assets/img/tools/gaia_1.png" width="400"/>
@@ -48,20 +49,18 @@ permalink: /sia2024/
 
 <section id="participants" class="bg-gray-light">
   <div class="container-lg p-responsive py-5 py-md-6 text-center">
-    <h3 class="alt-h2 mb-4">Les participants et contributeurs</h3>
+    <h3 class="alt-h2 mb-4">Participants and Contributors</h3>
     <div class="participants-grid" id="participants-grid">
       {% include participants-table.html orgs=site.data.participants id="participants" name="Participants" %}
     </div>
   </div>
 </section>
 
-
-
 <section id="sia2024" class="bg-gray-light">
   <div class="container-lg p-responsive py-5 py-md-6 text-center">
-    <h3 class="alt-h2 mb-4">Retour sur la première mondiale au SIA 2024</h3>
+    <h3 class="alt-h2 mb-4">Recap of the World Premiere at SIA 2024</h3>
     <div class="media-grid">
-      <a href="https://www.bfmtv.com/tech/au-salon-de-l-agriculture-le-premier-hackathon-du-monde-dedie-a-l-agriculture_VN-202403020088.html" target='_blank' title="Reportage BFM">
+      <a href="https://www.bfmtv.com/tech/au-salon-de-l-agriculture-le-premier-hackathon-du-monde-dedie-a-l-agriculture_VN-202403020088.html" target='_blank' title="Report BFM">
         <img class="avatar" src="/assets/img/bfm_tc.jpeg" width="100"/>
       </a>
       <a href="https://www.ouest-france.fr/economie/agriculture/salon/salon-de-lagriculture-lintelligence-artificielle-promise-a-un-bel-avenir-dans-les-fermes-7eae41de-d579-11ee-96ef-9660257def44" target='_blank' title="Article">

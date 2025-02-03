@@ -3,6 +3,7 @@ title: Outils
 layout: home
 description: Outils
 permalink: /outils/
+lang: fr
 ---
 
 <section id="tools" class="bg-gray-light">
