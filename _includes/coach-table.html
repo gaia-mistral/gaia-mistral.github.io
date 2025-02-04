@@ -10,11 +10,11 @@
             {% for org in type_hash[1] %}
               {% assign column_number = forloop.index0 | modulo:columns %}
               {% if column_number == 0 %}
-                <div class="org-row clearfix gutter">
+                <div class="org-row">
               {% endif %}
 
               <div class="col-sm-2 float-left org">
-                <div class="border d-block text-center px-2 py-2 mb-4 participant-card">
+                <div class="border d-block text-center px-2 py-2 mb-2 participant-card">
                   {% if org.img %}
                     <img class="avatar" src="{{ org.img | relative_url }}" width="100" height="auto"/>
                   {% endif %}

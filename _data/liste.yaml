@@ -1,5 +1,13 @@
 tools:
-  - name: 
-    url: 
-    img:
-    description: 
+  - name: Espace HugginFace
+    url: "https://huggingface.co/gaia-mistral"
+    description: L'espace HuggingFace GAIA vous est ouvert pour déployer vos protypes avec la possibilité d'utiliser des serveurs <b>GPU</b> ainsi que les outils d'<b>inférences</b>.
+  - name: Forum
+    url: "https://discord.gg/HP6cjFwdYh"
+    description: L'espace d'échange sur Discord va vous permettre d'échanger avec les autres participants et les coachs puis choisir votre sujet.
+  - name: Clefs API
+    url:
+    description: Nous vous mettrons à disposition un ensemble de <b>clefs d'API</b> vous permettant de tester et utiliser des outils d'IA dans le cadre de notre hackathon.
+  - name: Accès au Lexicon
+    url: "https://lexicon.osfarm.org"
+    description: Le Lexicon contient un ensemble de données agricoles accessible via une API pour alimenter vos prototypes. 
