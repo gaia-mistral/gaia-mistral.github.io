@@ -37,3 +37,10 @@ Plateforme:
     description-fr: Perplexity est une plateforme qui offre des outils pour l'analyse et la génération de texte.
     description-en: Perplexity is a platform that offers tools for text analysis and generation.
     url: https://perplexity.ai/
+
+Traduction:
+  - name: Lokas
+    logo: "/assets/img/outils/lokas.png"
+    description-fr: Lokas permet d'enregistrer et transcrire ses réunions en toute confidentialité.
+    description-en: Lokas help you to record and transcribe your meetings in complete privacy.
+    url: https://lokas.app/fr/
