@@ -1,5 +1,13 @@
 # Add open source project link to agricultural technologies
-Automation and Robotics:
+Agricultural and globalize OSFarm data:
+  - name: Lexicon
+    website: https://github.com/osfarm/lexicon
+    demo: https://lexicon.osfarm.org/
+    img: "/assets/img/projects/lexicon-icon.svg"
+  - name: Triple performance
+    website: https://wiki.tripleperformance.fr/wiki/Triple_Performance
+    demo: https://forum.tripleperformance.fr/
+    img: "/assets/img/projects/tp.svg"
 Climate, Environment, Imagery and Weather:
   - name: Open weather map
     website: https://openweathermap.org/
@@ -30,6 +38,14 @@ Biodiversity and plants:
     website: https://plantnet.org/
     demo: https://identify.plantnet.org/fr
     img: "/assets/img/projects/plantnet.png"
+  - name: FairDare
+    website: https://urgi.versailles.inrae.fr/faidare/
+    demo: https://identify.plantnet.org/fr
+    img: "/assets/img/projects/fairdare.png"
+  - name: Urgi
+    website: https://wheat-urgi.versailles.inra.fr/
+    demo: https://wheat-urgi.versailles.inra.fr/
+    img: "/assets/img/projects/urgi.png"
 Food informations:
   - name: Open Food Facts
     website: https://fr.openfoodfacts.org
@@ -57,6 +73,10 @@ Knowledgebases and Learning Resources:
     website: https://www.data.gouv.fr/fr/
     demo: https://www.data.gouv.fr/fr/pages/donnees_agriculture-alimentation/
     img: "/assets/img/projects/datagouv.png"
+  - name: Recherche Data gouv
+    website: https://recherche.data.gouv.fr/fr
+    demo: https://entrepot.recherche.data.gouv.fr/dataverse/rpg_complete_2021
+    img: "/assets/img/projects/datagouv.png"
   - name: Data europa
     website: https://data.europa.eu/
     demo: https://data.europa.eu/data/datasets/a1661432-5c36-4c15-b415-43bb04704fa8?locale=fr
@@ -65,10 +85,6 @@ Knowledgebases and Learning Resources:
     website: https://entrepot.recherche.data.gouv.fr/dataverse/eos
     demo: https://entrepot.recherche.data.gouv.fr/dataset.xhtml?persistentId=doi:10.15454/SCTMIU
     img: "/assets/img/projects/inrae.png"
-  - name: Triple performance
-    website: https://wiki.tripleperformance.fr/wiki/Triple_Performance
-    demo: https://forum.tripleperformance.fr/
-    img: "/assets/img/projects/tp.svg"
 Medicines for plants and animals:
   - name: Agritox
     website: https://www.data.gouv.fr/fr/datasets/base-de-donnees-agritox/

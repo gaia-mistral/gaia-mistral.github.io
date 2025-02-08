@@ -44,3 +44,10 @@ Traduction:
     description-fr: Lokas permet d'enregistrer et transcrire ses réunions en toute confidentialité.
     description-en: Lokas help you to record and transcribe your meetings in complete privacy.
     url: https://lokas.app/fr/
+
+Worflow:
+  - name: n8n
+    logo: "/assets/img/outils/n8n.png"
+    description-fr: Automatisation de flux de données securisées.
+    description-en: Secure, AI-native workflow automation
+    url: https://n8n.io/

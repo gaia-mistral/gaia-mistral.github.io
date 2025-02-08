@@ -17,14 +17,12 @@
               <div class="col-sm-4 float-left org">
                 <div class="border d-block text-center px-2 py-4 mb-4 participant-card">
                   {% if org.img %}
-                    <img class="avatar" src="{{ org.img | relative_url }}" width="100" height="auto"/>
+                    <img class="avatar" src="{{ org.img }}" width="120" height="auto"/>
                   {% endif %}
                   {% if page.lang == 'fr' %}
-                    <div class="org-name text-medium"><a href="{{ org.url }}" target='_blank'>{{ org.name }}</a></div>
-                    <div class="org-description">{{ org.description }}</div>
+                    <div class="org-name"><b>{{ org.name }}</b></div>
                   {% elsif page.lang == 'en' %}
-                    <div class="org-name text-medium"><a href="{{ org.url }}" target='_blank'>{{ org.en_name }}</a></div>
-                    <div class="org-description">{{ org.en_description }}</div>
+                    <div class="org-name"><b>{{ org.en_name }}</b></div>
                   {% endif %}
                 </div>
               </div><!-- col-sm-4 float-left org -->

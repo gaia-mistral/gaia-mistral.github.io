@@ -8,7 +8,7 @@ lang: en
 
 <section id="coach" class="bg-gray-light">
   <div class="container-lg p-responsive py-5 py-md-6 text-center">
-    <h3 class="alt-h2 mb-4">The Coaches</h3>
+    <h3 class="alt-h2 mb-4">Coachs</h3>
       {% include coach-table.html orgs=site.data.coachs id="coachs" name="Coaches" %}
   </div>
 </section>
@@ -17,7 +17,7 @@ lang: en
   <div class="container-lg p-responsive py-5 py-md-6 text-center">
     <h3 class="alt-h2 mb-4">Topics</h3>
     <div class="sujets-content">
-      <!-- Content for Topics -->
+      {% include subjects-table.html orgs=site.data.subjects id="subjects" name="subjects" %}
     </div>
   </div>
 </section>
@@ -26,16 +26,7 @@ lang: en
   <div class="container-lg p-responsive py-5 py-md-6 text-center">
     <h3 class="alt-h2 mb-4">Development Kit</h3>
     <div class="mallette-developpement-content">
-      <!-- Content for Development Kit -->
-    </div>
-  </div>
-</section>
-
-<section id="outils" class="bg-gray-light">
-  <div class="container-lg p-responsive py-5 py-md-6 text-center">
-    <h3 class="alt-h2 mb-4">Partners and Tools</h3>
-    <div class="outils-grid" id="outils-grid">
-      {% include liste-table.html orgs=site.data.liste id="liste" name="list" %}
+      {% include liste-table.html orgs=site.data.liste id="liste" name="liste" %}
     </div>
   </div>
 </section>

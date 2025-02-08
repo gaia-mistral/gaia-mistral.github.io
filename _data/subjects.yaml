@@ -1,0 +1,38 @@
+subjects:
+  - name: Conseil agronomique
+    en_name: Agronomic advisor
+    img: "/assets/img/participants/agrial.jpeg"
+    description: Construire un assistant permettant de conseiller les agriculteurs sur leur pratique agronomique.
+    en_description: Advise farmer with IA for optimising soil and agronomic practises.
+  - name: ChatCoop
+    en_name: Cooperative Chatbot
+    img: "/assets/img/participants/lca.png"
+    description: ...
+  - name: ChatCoop
+    en_name: Diseace prevention for farmer
+    img: "/assets/img/participants/avril.png"
+    description: ...
+  - name: Assistant vocal multilingue
+    en_name: Multilingual helper for agricultural worker
+    img: "/assets/img/participants/imsa.png"
+    description: ...
+  - name: Estimateur d'embauche de salarié agricole
+    en_name: Economic simulator for worker contract
+    img: "/assets/img/participants/imsa.png"
+    description: ...
+  - name: Simulateur technico-economique de scouting de robots agricoles
+    en_name: Scouting simulator for agricultural robots
+    img: "/assets/img/participants/gdr.png"
+    description: ...
+  - name: Catalogue des reproducteurs basés sur les indexs génétiques et les ventes
+    en_name: Mapping of interest between genetic cow and sales on the market
+    img: "/assets/img/participants/fl.png"
+    description: ...
+  - name: Simulateur technico-economique de production d'énergie sur les surfaces agricoles
+    en_name: Simulator for energy production on farm
+    img: "/assets/img/participants/ombrea.png"
+    description: ...
+  - name: Recherche multi-critère et humaine des innovations agricoles
+    en_name: Human search on innovative agricultural projects
+    img: "/assets/img/participants/cran.png"
+    description: ...
