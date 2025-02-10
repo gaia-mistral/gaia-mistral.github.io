@@ -4,11 +4,11 @@ subjects:
     img: "/assets/img/participants/agrial.jpeg"
     description: Construire un assistant permettant de conseiller les agriculteurs sur leur pratique agronomique.
     en_description: Advise farmer with IA for optimising soil and agronomic practises.
-  - name: ChatCoop
-    en_name: Cooperative Chatbot
+  - name: Prévision de rendement territorial
+    en_name: Yield management
     img: "/assets/img/participants/lca.png"
-    description: ...
-  - name: ChatCoop
+    description: Fiabiliser les prévisions de rendements grace aux données agronomiques
+  - name: Prevention des maladies en elevages
     en_name: Diseace prevention for farmer
     img: "/assets/img/participants/avril.png"
     description: ...
