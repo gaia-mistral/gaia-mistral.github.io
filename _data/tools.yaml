@@ -20,6 +20,16 @@ Modele LLM (Large Language Model):
     description-fr: OpenAI est une entreprise dans le domaine de l'intelligence artificielle, connue pour ses modèles de langage comme ChatGPT.
     description-en: OpenAI is a company in the field of artificial intelligence, known for its language models like ChatGPT.
     url: https://openai.com/
+  - name: DeepSeek
+    logo: "/assets/img/outils/deepseek.png"
+    description-fr: Deepseek est une entreprise dans le domaine de l'intelligence artificielle, connue pour ses modèles de langage comme DeepSeek R3.
+    description-en: Deepseek is a company in the field of artificial intelligence, known for its language models like DeepSeek R3.
+    url: https://www.deepseek.com/
+  - name: Qwen
+    logo: "/assets/img/outils/qwen.png"
+    description-fr: Qwen est un modele dans le domaine de l'intelligence artificielle developpé par Alibaba Cloud.
+    description-en: Qwen is a company in the field of artificial intelligence, build by Alibaba Cloud.
+    url: https://chat.qwenlm.ai/
 
 Plateforme:
   - name: HuggingFace
@@ -44,10 +54,20 @@ Traduction:
     description-fr: Lokas permet d'enregistrer et transcrire ses réunions en toute confidentialité.
     description-en: Lokas help you to record and transcribe your meetings in complete privacy.
     url: https://lokas.app/fr/
+  - name: Whisper
+    logo: "/assets/img/outils/whisper.png"
+    description-fr: Modèle de pointe pour la reconnaissance automatique de la parole (ASR) et la traduction.
+    description-en: State-of-the-art model for automatic speech recognition (ASR) and speech translation
+    url: https://huggingface.co/openai/whisper-large-v3
 
-Worflow:
+Workflow:
   - name: n8n
     logo: "/assets/img/outils/n8n.png"
     description-fr: Automatisation de flux de données securisées.
     description-en: Secure, AI-native workflow automation
     url: https://n8n.io/
+  - name: Goose
+    logo: "/assets/img/outils/goose.png"
+    description-fr: Automatisation via IA localement.
+    description-en: Secure, AI-native workflow local automation
+    url: https://block.github.io/goose/

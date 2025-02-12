@@ -1,13 +1,17 @@
 # Add open source project link to agricultural technologies
-Agricultural and globalize OSFarm data:
-  - name: Lexicon
+Agricultural and globalize data:
+  - name: Lexicon API
     website: https://github.com/osfarm/lexicon
     demo: https://lexicon.osfarm.org/
     img: "/assets/img/projects/lexicon-icon.svg"
-  - name: Triple performance
+  - name: Triple performance API
     website: https://wiki.tripleperformance.fr/wiki/Triple_Performance
-    demo: https://forum.tripleperformance.fr/
+    demo: https://wiki.tripleperformance.fr/api.php
     img: "/assets/img/projects/tp.svg"
+  - name: OpenSourceAg repository
+    website: https://github.com/geezacoleman/OpenSourceAgriculture
+    demo: https://vision.eng.au.dk/plant-seedlings-dataset/
+    img: "/assets/img/projects/osag.png"
 Climate, Environment, Imagery and Weather:
   - name: Open weather map
     website: https://openweathermap.org/
