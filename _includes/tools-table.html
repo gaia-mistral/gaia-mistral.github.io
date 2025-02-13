@@ -19,7 +19,7 @@
                         <div class="col-sm-4 float-left org">
                             <div class="border d-block text-center px-2 py-4 mb-4 participant-card">
                                 {% if org.logo %}
-                                    <img class="avatar" src="{{ org.logo | relative_url }}" width="100" height="auto"/>
+                                    <img class="avatar" src="{{ org.logo | relative_url }}" height="60px"/>
                                 {% endif %}
                                 <div class="org-name text-medium"><a href="{{ org.url }}" target='_blank'>{{ org.name }}</a></div>
                                 <div class="org-description">{{ org.description-fr }}</div>

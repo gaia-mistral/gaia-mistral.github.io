@@ -47,6 +47,11 @@ Plateforme:
     description-fr: Perplexity est une plateforme qui offre des outils pour l'analyse et la génération de texte.
     description-en: Perplexity is a platform that offers tools for text analysis and generation.
     url: https://perplexity.ai/
+  - name: HugginChat Tools
+    logo: "/assets/img/outils/huggingface.png"
+    description-fr: Plus de 50 outils simple à utiliser directement dans un ChatBot (experimental)
+    description-en: More than 50 simple AI tools in a chatbot.
+    url: https://huggingface.co/chat/tools
 
 Traduction:
   - name: Lokas
@@ -59,6 +64,11 @@ Traduction:
     description-fr: Modèle de pointe pour la reconnaissance automatique de la parole (ASR) et la traduction.
     description-en: State-of-the-art model for automatic speech recognition (ASR) and speech translation
     url: https://huggingface.co/openai/whisper-large-v3
+  - name: LinTo
+    logo: "/assets/img/outils/linto-ai.svg"
+    description-fr: Framework Open Source de technologies vocales édité par Linagora.
+    description-en: Open source framework for speech recognition (ASR) and speech translation
+    url: https://linto.ai/
 
 Workflow:
   - name: n8n
@@ -71,3 +81,25 @@ Workflow:
     description-fr: Automatisation via IA localement.
     description-en: Secure, AI-native workflow local automation
     url: https://block.github.io/goose/
+  - name: Bolt
+    logo: "/assets/img/outils/bolt.jpeg"
+    description-fr: Génération d'application.
+    description-en: Self generate app
+    url: https://bolt.new/
+
+Annuaires:
+  - name: Une IA par jour
+    logo: "/assets/img/outils/uneiaparjour.jpeg"
+    description-fr: Annuaire français avec 728 outils
+    description-en: 728 AI tools in french
+    url: https://www.uneiaparjour.fr/
+  - name: Future Tools
+    logo: "/assets/img/outils/futures.svg"
+    description-fr: Annuaire avec 3200 outils.
+    description-en: 3200 AI tools
+    url: https://www.futuretools.io/
+  - name: There an AI for that
+    logo: "/assets/img/outils/taaift.png"
+    description-fr: Annuaire avec 29000 outils.
+    description-en: 29000 AI tools
+    url: https://theresanaiforthat.com/
