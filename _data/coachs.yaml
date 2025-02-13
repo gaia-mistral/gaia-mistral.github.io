@@ -7,6 +7,10 @@ coachs:
     role: CEO | Ekylibre
     img: "/assets/img/teams/david.jpg"
     url: "https://www.linkedin.com/in/david-joulin-9b629790"
+  - name: Herve
+    role: Conférencier IA agriculture
+    img: "/assets/img/teams/herve.jpeg"
+    url: "https://www.linkedin.com/in/herv%C3%A9-pillaud-0186193b/"
   - name: Jean-Pierre
     role: Directeur de recherche | INRAE
     img: "/assets/img/teams/jean-pierre.jpeg"
