@@ -1,0 +1,40 @@
+<div class="">
+    <div class="org-include" id="include-{{ include.id }}">
+      <span class="no-matches">No matches.</span>
+  
+      {% assign columns = 3 %}
+      {% for type_hash in include.orgs %}
+        {% assign slug = type_hash[0] | downcase | replace: ' ','-' | replace: '.','' %}
+        <div class="org-type clearfix" id="type-{{ include.id }}-{{ slug }}">
+  
+          <div class="orgs">
+            {% for org in type_hash[1] %}
+              {% assign column_number = forloop.index0 | modulo:columns %}
+              {% if column_number == 0 %}
+                <div class="org-row clearfix gutter">
+              {% endif %}
+  
+              <div class="col-sm-4 float-left org">
+                <div class="border d-block text-center px-2 py-4 mb-4 participant-card">
+                  <h2 class="alt-h3 mb-2">
+                    {% octicon check height:28 class:"fill-blue d-inline mr-2" aria-label:server %}
+                    {{ org.name }}
+                  </h2>
+                  <p class="text-gray">{{ org.solution }}</p>
+                </div>
+              </div><!-- col-sm-4 float-left org -->
+  
+              {% if column_number == 2 %}
+                </div><!-- org-row clearfix gutter -->
+              {% endif %}
+            {% endfor %}<!-- loop orgs -->
+  
+            {% if column_number != 2 %}
+              </div><!-- org-row clearfix gutter -->
+            {% endif %}
+          </div><!-- orgs -->
+        </div><!-- org-type -->
+      {% endfor %}
+    </div> <!-- org-include -->
+  </div> <!-- mini-section -->
+  

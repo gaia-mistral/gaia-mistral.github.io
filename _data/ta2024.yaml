@@ -1,0 +1,30 @@
+participants:
+  - name: Cooldairy
+    issue: "Le stress thermique des vaches laitières impacte leur santé, leur productivité (baisse de la production laitière) et augmente les risques de maladies"
+    solution: " Développement d'un outil interactif basé sur l'indice THI (Temperature Humidity Index) pour visualiser les risques climatiques et obtenir des recommandations personnalisées."
+    howitwork: "L'IA génère des recommandations en croisant des données météorologiques locales et des informations spécifiques à chaque élevage pour des conseils adaptés en temps réel​"
+
+  - name: Suivi conso eau
+    issue: "Les éleveurs méconnaissent souvent la consommation réelle d'eau de leur cheptel, ce qui entraîne des pertes liées aux fuites et une gestion inefficace​."
+    solution: "Création d'un chatbot qui calcule et analyse la consommation d'eau quotidienne par vache, prédit les besoins en fonction des données météo, et alerte en cas de surconsommation​."
+    howitwork: "L'IA génère des prédictions en croisant les données historiques des élevages avec des informations météo locales. Notifications automatiques en cas d'anomalies détectées"
+
+  - name: Agr’IA
+    issue: "Les agriculteurs ont du mal à identifier et à accéder aux aides financières adaptées à leurs situations spécifiques (labels, localisation, activité)."
+    solution: "Un chatbot qui identifie les aides disponibles, fournit les conditions d’éligibilité et accompagne dans les démarches administratives​."
+    howitwork: "L'IA utilise une base d’URLs de sites internet qui proposent des aides agricoles pour générer des réponses personnalisées selon le profil de l'utilisateur, et met à jour en temps réel les nouvelles aides disponibles​."
+
+  - name: Vachement fertile
+    issue: "Optimiser les périodes d'insémination des vaches pour garantir un veau par an, un objectif clé pour la productivité et la rentabilité des élevages​."
+    solution: "Une application prédictive qui s’appuie sur les données de capteurs et les données climatiques pour planifier les périodes d’insémination optimales par vache."
+    howitwork: "L'IA croise les données de capteurs, des images de caméras, les historiques d’insémination, et les données climatiques pour maximiser les chances de succès. Simulation grâce à l’outil Knime."
+
+  - name: Pâture Smart
+    issue: "Optimiser la gestion des prairies tout en réduisant le risque parasitaire pour les animaux."
+    solution: "Planification dynamique de la rotation des parcelles en fonction de la pousse de l’herbe, l’utilisation des pâtures et les cycles parasitaires pour améliorer la santé animale et la durabilité de l’exploitation"
+    howitwork: "IA générative utilisée pour analyser les données climatiques, agronomiques et vétérinaires afin de fournir des recommandations personnalisées de gestion des parcelles et des rotations."
+
+  - name: PEARL
+    issue: "Manque de vétérinaires dans certaines zones, coût élevé des consultations et besoin de former les éleveurs pour améliorer la précision des diagnostics."
+    solution: "Développement d’une application intuitive qui aide les éleveurs à réaliser un pré-diagnostic basé sur les symptômes observés et à recevoir des recommandations adaptées."
+    howitwork: " IA croise les symptômes renseignés avec les données médicales fournies par les participants et génère un diagnostic préliminaire précis, accompagné d’un taux de possibilité et de conseils pratiques."
