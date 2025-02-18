@@ -71,6 +71,11 @@ Traduction:
     url: https://linto.ai/
 
 Workflow:
+  - name: Anything LLM
+    logo: "/assets/img/outils/atllm.png"
+    description-fr: Les outils d'IA tout en un en local
+    description-en: All in one AI App
+    url: https://anythingllm.com/
   - name: n8n
     logo: "/assets/img/outils/n8n.png"
     description-fr: Automatisation de flux de données securisées.
