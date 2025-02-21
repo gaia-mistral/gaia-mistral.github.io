@@ -8,8 +8,8 @@ subjects:
     en_name: Yield management
     img: "/assets/img/participants/lca.png"
     description: Fiabiliser les prévisions de rendements grace aux données agronomiques
-  - name: Prevention des maladies en elevages
-    en_name: Diseace prevention for farmer
+  - name: Assistant de nutrition animale pour les éleveurs
+    en_name: Animal nutrition advisor
     img: "/assets/img/participants/avril.png"
     description: ...
   - name: Assistant vocal multilingue
