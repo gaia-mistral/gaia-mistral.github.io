@@ -1,0 +1,38 @@
+coachs:
+  - name: David
+    role: CEO | Ekylibre | La Ferme Digitale | OSFarm
+    img: "/assets/img/teams/david.jpg"
+    url: "https://www.linkedin.com/in/david-joulin-9b629790"
+  - name: Félix
+    role: Chef de service Etudes et Développement Informatique | Ministère de l'Agriculture
+    img: "/assets/img/teams/felix.jpeg"
+    url: "https://www.linkedin.com/in/f%C3%A9lix-j-z-b-86a61039/"
+  - name: Franck
+    role: Responsable des programmes Agrilab & Agri-croissance, IncubIvoir
+    img: "/assets/img/teams/franck.jpg"
+  - name: Herve
+    role: Conférencier IA agriculture | La Ferme Digitale
+    img: "/assets/img/teams/herve.jpeg"
+    url: "https://www.linkedin.com/in/herv%C3%A9-pillaud-0186193b/"
+  - name: Jean Delmas
+    role: Fondateur ICT4DEV / e-Agriculture expert
+    img: "/assets/img/teams/jean-delmas.jpeg"
+    url: "https://www.linkedin.com/in/delmo225/"
+  - name: Nicolas
+    role: Chargé de mission innovation | CRA Pays de la Loire
+    img: "/assets/img/teams/nicolas_do.jpeg"
+    url: "https://www.linkedin.com/in/dorisonnicolas/"
+  - name: Stéphane
+    role: Chargé d’accompagnement, IncubIvoir
+    img: "/assets/img/teams/stephane.jpg"
+  - name: Tchanssongou Albert
+    role: Directeur des Statistiques | Ministère de l'Agriculture
+    img: "/assets/img/teams/cote_ivoire.png"
+  - name: Wilfried
+    role: Manageur de AKASSÔH
+    img: "/assets/img/teams/wilfried.jpeg"
+    url: "https://www.linkedin.com/in/wilfried-nguessan-85969113//"
+
+
+    
+

@@ -12,7 +12,8 @@
 </head>
 
 <body{% if page.id %} id="{{ page.id }}"{% endif %} class="{{ page.layout }}">
-
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/modern-normalize@v2.0.0/modern-normalize.min.css" rel="stylesheet">
   <div class="page-header pt-4 pb-5">
     <div class="container-lg">
     <nav class="language-switcher mt-3 text-center"> 
@@ -20,19 +21,40 @@
         <img src="{{ '/assets/img/gb.png' | relative_url }}" alt="" style="width: 35px; height: auto;">
       </a>
     </nav>
-
       <div class="text-center">
         <a href="{{ "/" | relative_url}}"><img class="logo py-3" src="{{ "/assets/img/logo-gaia.png" | relative_url}}" alt="Gaia"></a>
-    
-
-        <ul>
-          <li class="d-block d-sm-inline-block px-1 px-md-3"><a href="{{ "/principes/" | relative_url}}" class="text-center btn btn-outline">Principe</a></li>
-          <li class="d-block d-sm-inline-block px-1 px-md-3"><a href="{{ "/sia2025/" | relative_url}}" class="text-center btn btn-outline">SIA 2025</a></li>
-          <li class="d-block d-sm-inline-block px-1 px-md-3"><a href="{{ "/public_datas/" | relative_url}}" class="text-center btn btn-outline">Les données</a></li>
-          <li class="d-block d-sm-inline-block px-1 px-md-3"><a href="{{ "/outils/" | relative_url}}" class="text-center btn btn-outline">Les outils</a></li>
-          <li class="d-block d-sm-inline-block px-1 px-md-3"><a href="{{ "/sia2024/" | relative_url}}" class="text-center btn btn-outline">SIA 2024</a></li>
-          <li class="d-block d-sm-inline-block px-1 px-md-3"><a href="{{ "/ta2024/" | relative_url}}" class="text-center btn btn-outline">Tech Elevage 2024</a></li>
-        </ul>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+          <div class="container-fluid">
+            <a class="navbar-brand" href="#">Menu</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link" href="{{ "/principes/" | relative_url}}">Principes</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="{{ "/public_datas/" | relative_url}}">Données</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="{{ "/outils/" | relative_url}}">Outils</a>
+                </li>
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Hackathons
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <li><a class="dropdown-item" href="{{ "/sara2025/" | relative_url}}">SARA 2025</a></li>
+                    <li><a class="dropdown-item" href="{{ "/sia2025/" | relative_url}}">SIA 2025</a></li>
+                    <li><a class="dropdown-item" href="{{ "/ta2024/" | relative_url}}">Tech Elevage 2024</a></li>
+                    <li><a class="dropdown-item" href="{{ "/sia2024/" | relative_url}}">SIA 2024</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
       </div>
     </div>
     <!-- .full-width here gets closed on support-page.html and home.html layouts -->

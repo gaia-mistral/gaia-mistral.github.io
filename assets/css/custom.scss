@@ -487,8 +487,9 @@ h1 {
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s, box-shadow 0.2s;
-  height: 200px;
+  min-height: 250px;
   max-height: auto;
+  overflow-y: auto;
   display: flex;
   flex-direction: column;
   justify-content: center;

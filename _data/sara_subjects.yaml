@@ -1,0 +1,90 @@
+subjects:
+  - name: AGRICLIM-PREDICT
+    keywords:
+      - 'Climat'
+      - 'Résilience'
+      - 'Prévision'
+      - 'Agriculture intelligente'
+      - 'IoT'
+      - 'Sécurité alimentaire'
+    description: AgriClim Predict est une application mobile qui anticipe les risques climatiques agricoles grâce à l’IA et des capteurs IoT. Elle fournit des recommandations personnalisées pour améliorer la résilience et réduire les pertes de récolte.
+    needs: 
+      - Capteurs IoT (humidité, température) et microcontrôleurs
+      - Analyse de données (Python, R) et connectivité GSM
+      - Conception UX/UI de l’application
+      - Intégration de l’énergie solaire pour autonomie terrain
+      - Validation du prototype, collaborations techniques et visibilité pour partenariats
+  - name: AGRIKORA
+    keywords:
+      - 'Rendement'
+      - 'Prévision'
+      - 'Tracabilité'
+    description: Plateforme de gestion et traçabilité des filières agricoles, avec dashboards IA et prédictions de rendement.
+  - name: AgriSense
+    keywords:
+      - 'Diagnostic'
+      - 'Prévision'
+      - 'Elevage'
+    description: AgriCast (prévision agricole) et VetBot (diagnostic animal) pour agriculteurs et éleveurs via IA.
+  - name: AGRI-TECH
+    keywords:
+      - 'Diagnostic'
+      - 'IoT'
+      - 'Drone'
+      - 'Marketplace'
+      - 'Prévision'
+    description: "Agriculture de précision : capteurs IoT, drone, IA prédictive, marketplace intelligente."
+  - name: AgroSub
+    keywords:
+      - 'Financement'
+      - 'Prévision'
+    description: "Plateforme de recommandation d’aides agricoles personnalisées (subventions, concours, prêts)."
+  - name: CacaoHealth
+    keywords:
+      - 'Diagnostic'
+      - 'Cacao'
+      - 'Drone'
+      - 'Satellite'
+    description: "Détection précoce des maladies du cacaoyer avec IA et imagerie (drone/satellite/mobile)."
+  - name: Graines-d-Or
+    keywords:
+      - 'Commerce'
+      - 'Nutrition'
+      - 'Mil'
+    description: "Valorisation du mil local et nutrition via app mobile de menus/tutoriels/nutrition IA."
+  - name: IT-CASSAVA
+    keywords:
+      - 'E-Commerce'
+      - 'Irrigation'
+      - 'IoT'
+      - 'Reseau social'
+    description: "Solution intégrée IoT et web pour moderniser la filière vivrière : arrosage automatisé, détection maladies du manioc, e-commerce et réseau social agricole"
+  - name: PhytoScan
+    keywords:
+      - 'Diagnostic'
+      - 'Irrigation'
+      - 'Drone'
+      - 'Assistant vocal'
+    description: "App mobile pour détection des stress végétaux avec drones, IA et assistant vocal."
+  - name: Semence-Ivoire
+    keywords:
+      - 'Prévision'
+      - 'Semence'
+      - 'Stockage'
+    description: "IA pour sélection, culture et stockage prédictif de semences locales adaptées."
+  - name: StackRice
+    keywords:
+      - 'Prévision'
+      - 'IoT'
+      - 'Riz'
+    description: "Optimisation de la culture du riz via contenants intelligents, capteurs et IA embarquée."
+  - name: ZAKO-PILOT
+    keywords:
+      - 'Prévision'
+      - 'Tracabilité'
+      - 'Coton'
+    description: "Assistant intelligent pour encadrement du coton, recommandations IA, chatbot et suivi terrain."
+
+    
+
+    
