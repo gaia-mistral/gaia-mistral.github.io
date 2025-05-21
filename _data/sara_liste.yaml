@@ -1,7 +1,7 @@
 tools:
   - name: Espace HugginFace
     en_name: HugginFace organisation
-    url: "https://huggingface.co/spaces/sara-gaia"
+    url: "https://huggingface.co/sara-gaia"
     description: L'espace HuggingFace GAIA vous est ouvert pour déployer vos protypes avec la possibilité d'utiliser des serveurs ainsi que les outils d'<b>inférences</b>.
     en_description: GAIA HuggingFace organisation and spaces with demo and project to build new one without losing time.
   - name: Forum
