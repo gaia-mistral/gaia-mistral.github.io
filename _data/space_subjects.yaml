@@ -1,0 +1,19 @@
+subjects:
+  - name: IoTee
+    keywords:
+      - 'Elevage bovin'
+      - 'Stress hydrique'
+      - 'IoT'
+      - 'Sonde témpérature'
+    description: Agent IA qui détecte le stress hydrique des vaches à partir de données de température issues des colliers connectés
+  - name: CNIEL
+    keywords:
+      - 'Simplification administrative'
+      - 'Elevage laitier'
+      - 'LLM'
+      - 'OCR'
+    description: Agent IA générant un fichier standardisé enrichi (GS1) à partir d’un bon de livraison laitier
+
+    
+
+    

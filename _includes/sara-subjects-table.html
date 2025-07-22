@@ -23,29 +23,31 @@
                     <h2 class="alt-h3 mb-2">
                     {% octicon hubot height:28 class:"fill-blue d-inline mr-2" aria-label:server %}
                     {{ org.name }}
-                  </h2>
+                    </h2>
                     {% for keyword in org.keywords %}
                       <span class="badge bg-success">{{ keyword }}</span>
                     {% endfor %}
                     <div class="org-description">{{ org.description }}</div>
-                    <div class="accordion" id="accordion{{ org.name }}">
-                      <div class="accordion-item">
-                        <h2 class="accordion-header" id="heading{{ org.name }}">
-                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ org.name }}" aria-expanded="false" aria-controls="collapse{{ org.name }}">
-                            Besoins
-                          </button>
-                        </h2>
-                        <div id="collapse{{ org.name }}" class="accordion-collapse collapse" aria-labelledby="heading{{ org.name }}" data-bs-parent="#accordion{{ org.name }}">
-                          <div class="accordion-body">
-                            <ul class="list-group">
-                              {% for need in org.needs %}
-                                <li class="list-group-item">{{ need }}</li>
-                              {% endfor %}
-                            </ul>
+                    {% if org.needs %}
+                      <div class="accordion" id="accordion{{ org.name }}">
+                        <div class="accordion-item">
+                          <h2 class="accordion-header" id="heading{{ org.name }}">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ org.name }}" aria-expanded="false" aria-controls="collapse{{ org.name }}">
+                              Besoins
+                            </button>
+                          </h2>
+                          <div id="collapse{{ org.name }}" class="accordion-collapse collapse" aria-labelledby="heading{{ org.name }}" data-bs-parent="#accordion{{ org.name }}">
+                            <div class="accordion-body">
+                              <ul class="list-group">
+                                {% for need in org.needs %}
+                                  <li class="list-group-item">{{ need }}</li>
+                                {% endfor %}
+                              </ul>
+                            </div>
                           </div>
                         </div>
                       </div>
-                    </div>  
+                    {% endif %}
                   {% elsif page.lang == 'en' %}
                     <div class="org-name"><b>{{ org.en_name }}</b></div>
                   {% endif %}
