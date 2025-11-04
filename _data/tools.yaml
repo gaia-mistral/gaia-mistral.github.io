@@ -52,7 +52,22 @@ Plateforme:
     description-fr: Plus de 50 outils simple à utiliser directement dans un ChatBot (experimental)
     description-en: More than 50 simple AI tools in a chatbot.
     url: https://huggingface.co/chat/tools
-
+Outils de developpement rapide:
+  - name: Lovable AI
+    logo: "/assets/img/outils/lovable.png"
+    description-fr: Créez des applications et des sites web en discutant avec une IA.
+    description-en: Create apps and websites by chatting with AI.
+    url: https://lovable.dev/
+  - name: Kilo Code
+    logo: "/assets/img/outils/kilocode.svg"
+    description-fr: Kilo est l'agent de codage à la croissance la plus rapide.
+    description-en: Kilo is the fastest growing coding agent because it is open.
+    url: https://kilocode.ai/
+  - name: Kilo Code
+    logo: "/assets/img/outils/claudecode.png"
+    description-fr: Lovable AI est un outil de génération d'images basé sur l'intelligence artificielle.
+    description-en: Lovable AI is an AI-based image generation tool.
+    url: https://www.claude.com/product/claude-code
 Traduction:
   - name: Lokas
     logo: "/assets/img/outils/lokas.png"
