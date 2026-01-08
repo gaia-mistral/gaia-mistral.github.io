@@ -1,0 +1,25 @@
+subjects:
+  - name: CTIFL
+    keywords:
+      - 'Prévision'
+      - 'Agriculture intelligente'
+      - 'Maraichage'
+    description: modèle de prévision des rendements en culture de tomates sous serre.
+  - name: Cols Verts
+    keywords:
+      - 'Formation'
+      - 'RH'
+    description: personnalisation de formations agricoles grâce à l’IA pour renforcer l’attractivité des métiers en tension.
+  - name: GEVES
+    keywords:
+      - 'Data'
+      - 'Génétique'
+      - 'Productions végétales'
+    description: base de données partagée des variétés végétales.
+  - name: OCVV / CPVO
+    keywords:
+      - 'Data'
+      - 'Génétique'
+      - 'Productions végétales'
+      - 'Prévision'
+    description: "tableau de bord sur l'évolution des variétés protégées"

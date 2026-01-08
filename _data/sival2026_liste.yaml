@@ -1,0 +1,31 @@
+tools:
+  - name: Espace HugginFace
+    en_name: HugginFace organisation
+    url: "https://huggingface.co/agreendefi"
+    description: L'espace HuggingFace GAIA vous est ouvert pour déployer vos protypes avec la possibilité d'utiliser des serveurs ainsi que les outils d'<b>inférences</b>.
+    en_description: GAIA HuggingFace organisation and spaces with demo and project to build new one without losing time.
+  - name: Forum
+    en_name: Forum
+    url: "https://discord.gg/D6Ma5NVUy3"
+    description: L'espace d'échange sur Discord va vous permettre d'échanger avec les autres participants et les coachs puis choisir votre sujet.
+    en_description: Meet people and talk about subjects.
+  - name: Clefs API
+    en_name: API key
+    url: "mailto:gaia@osfarm.org"
+    description: Nous vous mettrons à disposition un ensemble de <b>clefs d'API</b> vous permettant de tester et utiliser des outils d'IA dans le cadre de notre hackathon.
+    en_description: Send mail to gaia@osfarm.org to have access to.
+  - name: Accès au Lexicon
+    en_name: Lexicon access
+    url: "https://lexicon.osfarm.org"
+    description: Le Lexicon contient un ensemble de données agricoles accessible via une API pour alimenter vos prototypes.
+    en_description: Lexicon API where all agricultural data are normalize.
+  - name: Catalogue Outils
+    en_name: AI Tools repositories catalog
+    url: "/outils/"
+    description: Un ensemble d'outils pour vous aider à construire votre prototype.
+    en_description: AI Tools repository with Mistral AI, POE, N8N and others.
+  - name: Catalogue Data
+    en_name: Open Data repositories catalog
+    url: "/public_datas/"
+    description: Un ensemble de données ouvertes pour vous aider à alimenter et à tester votre prototype.
+    en_description: Open Ag Dataset with Data.gouv, TriplePerformance and others.
